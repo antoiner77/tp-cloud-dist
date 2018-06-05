@@ -8,8 +8,7 @@ Vous allez avec ce TP creer: Un serveur EC2, un Bucket S3, un groupe d'auto-scal
 
 # Avant de commencer le TP:
 
- -  -  -    Step0: Configuration des Droits (role & strategie)    -  -  - 
-   		     (Configuration des droits entre notre serveur et AWS)
+ Step0: Configuration des Droits (role & strategie Configuration des droits entre notre serveur et AWS)
 
 IAM -> Strategie
 
