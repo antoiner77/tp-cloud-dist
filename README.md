@@ -16,8 +16,7 @@ IAM -> Strategie
 
 Nous voulons autoriser un serveur EC2 à contacter le service s3
 Nous voulons qu'il puisse ecrire, pas besoins de plus de permission
-Nous voulons aussi qu'il n'ai access qu'a notre bucket et pas a d'autre de notre compte (Utilisation des "arn" pour identifier le bucket)
-
+Pour simplifier nous autoriserons tous les Bucket S3
 IAM -> Role
 
 2) Creation du role
